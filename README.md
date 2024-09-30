@@ -132,4 +132,4 @@ We welcome contributions from the community! If you're interested in contributin
 - **Discussions**: Feel free to start a discussion in the issues or pull requests if you have any questions or need clarification.
 
 ### license
-MIT
+MIT"# AI-Research-Assistant" 
