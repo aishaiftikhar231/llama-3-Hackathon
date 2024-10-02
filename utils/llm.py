@@ -1,5 +1,8 @@
 import os
 from together import Together
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 def generate_response(prompt):
